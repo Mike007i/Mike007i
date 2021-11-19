@@ -2,13 +2,6 @@
 Senior DevOps Engineer with more than 7 years of commertial experience. I have excellent knowledge in DevOps practics.
 In general worked with monolitic, microservice and serverless arthitectures.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Mike007i&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=Mike007i&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/romankh3/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike007i&layout=compact"/></a>
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/mike-koren/">
