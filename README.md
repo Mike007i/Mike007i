@@ -39,7 +39,7 @@ In general worked with monolitic, microservice and serverless arthitectures.
        <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
 </p>
    
-*   My last project - Senior DevOps at [Skoltech](https://www.linkedin.com/school/skolkovo-institute-of-science-and-technology/) has ended in October 2021. 
+*   My last project, as the Senior DevOps - at [Skoltech](https://www.linkedin.com/school/skolkovo-institute-of-science-and-technology/) has ended in October 2021. 
 
 ## 🛠 Technical Stack
 *   container virtualization - docker , kubernetes, orchestration - rancher os, kublr 
